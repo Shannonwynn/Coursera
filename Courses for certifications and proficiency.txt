@@ -1,0 +1,18 @@
+Courses to look into: 
+
+https://www.coursera.org/ibm
+
+https://www.edx.org/
+
+Job postings or websites:
+data science
+data analytics
+
+jobscan.co
+
+skills: 
+hadoop
+sql
+excel
+access
+tableau
